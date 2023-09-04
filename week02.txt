@@ -1,0 +1,11 @@
+week02
+- linux command : ls, ls -a, ls -al, pwd, cd git, cd ..
+- git command
+  git init
+  git status //현재 상황//
+  git add week01.txt //스테이지에 올리는 것//
+  git config --global user.email "you@example.com"
+  git config --global user.name "your name"
+  git config --global --list
+  git commit -m "v0"
+  git log
